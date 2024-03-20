@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/ahmedghaddah/Desktop/cursor-animation/app/layout\":[\"static/media/916d3686010a8de2-s.p.woff2\",\"static/media/9a881e2ac07d406b-s.p.woff2\",\"static/media/c1fa12b36e6a139c-s.p.otf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
